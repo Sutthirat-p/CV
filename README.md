@@ -1,3 +1,4 @@
 # CV
-My first web on Github's host.
+
+[CV](https://sutthiratphutho.github.io/CV/me/)
 
