@@ -1,4 +1,4 @@
 # CV
 
-[CV](https://sutthiratphutho.github.io/CV/me/)
+[CV](https://radsadorn.github.io/CV/me/)
 
